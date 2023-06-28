@@ -1,0 +1,46 @@
+{
+    "title": "Liynwの小窝",
+    "description": "一个默默无闻的主页",
+    "keywords": "Liynw,个人主页",
+    "author": "Liynw",
+    "logo_img": "https://cdn.jsdelivr.net/npm/liynw-blog@1.0.2/img/avatar.webp",
+    "logo_text_1": "Liynw",
+    "logo_text_2": "top",
+    "github": "Liynw",
+    "qq": "30359624",
+    "email": "i@liynw.top",
+    "bilibili": "1402843748",
+    "telegram": "IvyLuo63131426",
+    "link_1": [
+        "https://blog.liynw.top/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://pan.liynw.top/",
+        "fa-solid fa-download",
+        "网盘"
+    ],
+    "link_3": [
+        "https://blog.liynw.top/bber/",
+        "fa-solid fa-comment-dots",
+        "说说"
+    ],
+    "link_4": [
+        "/",
+        "fa-solid fa-circle-notch",
+        "开发中..."
+    ],
+    "link_5": [
+        "/",
+        "fa-solid fa-circle-notch",
+        "开发中..."
+    ],
+    "link_6": [
+        "/",
+        "fa-solid fa-circle-notch",
+        "开发中..."
+    ],
+    "Copyright_text": "Liynw",
+    "beian": "豫ICP备2022018134号-1"
+}
